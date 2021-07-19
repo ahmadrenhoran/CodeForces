@@ -1,2 +1,2 @@
 # CodeForces
-Order by difficulty. [Here](wwww.codeforces.com) to found the challanges
+Order by difficulty. go to www.codeforces.com to found the challenges
