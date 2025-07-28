@@ -27,9 +27,6 @@ int main() {
 
     for (int i = 0; i < n; i++) {
         totalMyCoinVal += coins[i];
-        cout << "Total koin saya " << totalMyCoinVal << endl;
-        cout << "Total koin dia " << totalCoinVal - totalMyCoinVal << endl;
-
         counterMyCoin++;
         if (totalMyCoinVal > totalCoinVal - totalMyCoinVal) {
             break;
